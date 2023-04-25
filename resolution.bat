@@ -1,0 +1,1 @@
+cd "C:\Users\Praful Patekar\Programming\windows_resolution_agent" & .\.env\Scripts\activate & python windows_resolution_agent.py
